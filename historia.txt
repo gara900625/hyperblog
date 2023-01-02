@@ -12,4 +12,8 @@ Experimento 1
 
 Experimento 2
 
+<<<<<<< HEAD
 Mañana nos enfocaremos en su vida laboral
+=======
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 611abed1d8a54ba3ce679f1b3ee79782653abf32
